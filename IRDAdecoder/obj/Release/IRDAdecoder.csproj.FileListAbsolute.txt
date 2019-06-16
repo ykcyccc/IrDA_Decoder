@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\bin\Release\IRDAdecoder.exe.config
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\bin\Release\IRDAdecoder.exe
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\bin\Release\IRDAdecoder.pdb
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\obj\Release\IRDAdecoder.Form1.resources
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\obj\Release\IRDAdecoder.Properties.Resources.resources
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\obj\Release\IRDAdecoder.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\obj\Release\IRDAdecoder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\obj\Release\IRDAdecoder.exe
+C:\Users\Admin\source\repos\IRDAdecoder\IRDAdecoder\obj\Release\IRDAdecoder.pdb
